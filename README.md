@@ -1,4 +1,4 @@
-# MaptyWork
+# Mapworkout
 
 MaptyWork is a web application that leverages Geolocation and the OpenStreetMap API to allow users to mark locations on a map for various workouts, such as cycling or running. This helps users keep track of the workouts they have done and visualize their fitness journey.
 
